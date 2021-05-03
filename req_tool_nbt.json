@@ -44,16 +44,9 @@
                             },
                             {
                                 "operator": "GREATER_THAN_OR_EQUAL",
-                                "comparator": 400,
-                                "value": {
-                                    "woodcutting": 6
-                                }
-                            },
-                            {
-                                "operator": "GREATER_THAN_OR_EQUAL",
                                 "comparator": 800,
                                 "value": {
-                                    "woodcutting": 6
+                                    "woodcutting": 4
                                 }
                             },
                             {
@@ -1478,7 +1471,7 @@
                             "operator": "GREATER_THAN_OR_EQUAL",
                             "comparator": 800,
                             "value": {
-                                "excavation": 6
+                                "excavation": 4
                             }
                         },
                         {
@@ -2898,17 +2891,9 @@
                             },
                             {
                                 "operator": "GREATER_THAN_OR_EQUAL",
-                                "comparator": 400,
-                                "value": {
-                                    "woodcutting": 6,
-                                    "excavation": 4
-                                }
-                            },
-                            {
-                                "operator": "GREATER_THAN_OR_EQUAL",
                                 "comparator": 800,
                                 "value": {
-                                    "woodcutting": 6,
+                                    "woodcutting": 4,
                                     "excavation": 4
                                 }
                             },
@@ -4395,16 +4380,9 @@
                             },
                             {
                                 "operator": "GREATER_THAN_OR_EQUAL",
-                                "comparator": 400,
-                                "value": {
-                                    "farming": 6
-                                }
-                            },
-                            {
-                                "operator": "GREATER_THAN_OR_EQUAL",
                                 "comparator": 800,
                                 "value": {
-                                    "farming": 6
+                                    "farming": 4
                                 }
                             },
                             {
@@ -5820,16 +5798,9 @@
                             },
                             {
                                 "operator": "GREATER_THAN_OR_EQUAL",
-                                "comparator": 400,
-                                "value": {
-                                    "farming": 6
-                                }
-                            },
-                            {
-                                "operator": "GREATER_THAN_OR_EQUAL",
                                 "comparator": 800,
                                 "value": {
-                                    "farming": 6
+                                    "farming": 4
                                 }
                             },
                             {
@@ -7245,16 +7216,9 @@
                             },
                             {
                                 "operator": "GREATER_THAN_OR_EQUAL",
-                                "comparator": 400,
-                                "value": {
-                                    "woodcutting": 6
-                                }
-                            },
-                            {
-                                "operator": "GREATER_THAN_OR_EQUAL",
                                 "comparator": 800,
                                 "value": {
-                                    "woodcutting": 6
+                                    "woodcutting": 4
                                 }
                             },
                             {
@@ -8670,16 +8634,9 @@
                             },
                             {
                                 "operator": "GREATER_THAN_OR_EQUAL",
-                                "comparator": 400,
-                                "value": {
-                                    "mining": 6
-                                }
-                            },
-                            {
-                                "operator": "GREATER_THAN_OR_EQUAL",
                                 "comparator": 800,
                                 "value": {
-                                    "mining": 6
+                                    "mining": 4
                                 }
                             },
                             {
@@ -10093,7 +10050,7 @@
                     "operator": "GREATER_THAN_OR_EQUAL",
                     "comparator": 800,
                     "value": {
-                        "mining": 5
+                        "mining": 4
                     }
                 },{
                     "operator": "GREATER_THAN_OR_EQUAL",
@@ -11435,16 +11392,9 @@
                             },
                             {
                                 "operator": "GREATER_THAN_OR_EQUAL",
-                                "comparator": 400,
-                                "value": {
-                                    "mining": 6
-                                }
-                            },
-                            {
-                                "operator": "GREATER_THAN_OR_EQUAL",
                                 "comparator": 800,
                                 "value": {
-                                    "mining": 6
+                                    "mining": 4
                                 }
                             },
                             {
